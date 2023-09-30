@@ -1,0 +1,6 @@
+- [Try out static HTML](./try-html.md)
+- Add styling
+- Tip: separate content and form
+- [Responsive design](./responsive-design.md)
+- SASS
+- Dynamic single-page websites

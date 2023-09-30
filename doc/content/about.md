@@ -1,0 +1,7 @@
+# About this site
+
+Web development is complicated. It took me a long time to learn. I spent countless hours searching the internet, reading articles, and viewing instructional videos. I followed online courses and training, and I experimented with all that I learned. But even now, although I often dare to think of myself as an experienced web developer, I still sometimes feel like a novice.
+
+This website is my attempt to share some of the things I've learned with the intention of helping others on their learning journey. Initially, I wrote "to shorten the learning path of others," but then I realized that this path never truly ends. There will always be new things to learn and old patterns to simplify. What I can hope for is that it smoothens your learning process a bit.
+
+A word on my way of working. I don't want to give an overview of everything that is possible, but rather the opposite, protect you from what the French call <span lang="fr">"le débarras du choix"<span>, the burden of choice. If there are different ways to achieve the same goal, I'll only present the one that I judge most appropriate. Often, there are rational arguments for that choice. Sometimes, it is only a question of taste. For most techniques you will find alternatives and advocates for those. I don't claim that I have all the optimal answers. But, in the end, it takes a lot of time to find and compare alternatives and probably will not benefit you much.
