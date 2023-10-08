@@ -2,4 +2,13 @@
 layout: base
 ---
 
-{{ content }}
+<header>
+  <a href="{{ page.home-url | default: "../" }}">Home</a>
+  <p>This is just a test.</p>
+</header>
+<main class="page-content" aria-label="Content">
+  {{ content }}
+</main>
+<footer>
+  <p>This is the footer</p>
+</footer>
