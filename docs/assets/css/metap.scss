@@ -4,7 +4,7 @@
 
 $color-1: rgb(60, 150, 120);
 $color-2: rgb(20, 180, 50);
-$header-background: linear-gradient($color-1, color-2);
+$header-background: linear-gradient($color-1, $color-2);
 $header-color-text: white;
 
 $footer-background: $header-background;
