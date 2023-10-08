@@ -1,17 +1,32 @@
 ---
 ---
+@charset "utf-8";
 
-/*  */
+$color-1: rgba(60, 150, 120);
+$color-2: rgb(20, 180, 50);
+$header-background: linear-gradient($color-1, color-2);
+$header-color-text: white;
+
+$footer-background: $header-background;
+$footer-color-text: $header-color-text;
+
+$color-title: $color-1;
 
 header {
-    background-color: aquamarine;
-    height: 150px;
+    background: $header-background;
+    color: $header-color-text;
 }
+
+footer {
+    background: $footer-background;
+    color: $footer-color-text;
+}
+
 
 body {
     font-family: Segoe UI, sans-serif;
 }
 
 h1, h2, h3, H4, h5 {
-    color: royalblue;
+    color: $color-title;
 }
