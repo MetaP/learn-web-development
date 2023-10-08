@@ -21,6 +21,10 @@ header {
     background: $header-background;
     color: $header-color-text;
     padding: $spacing-unit;
+
+    a {
+        color: $header-color-text;
+    }
 }
 
 footer {
